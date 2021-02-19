@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="okblanc">images/pion marbre vert.png</file>
+        <file alias="poknoir">images/pion ebene rouge.png</file>
+        <file alias="oknoir">images/pion ebene vert.png</file>
+        <file alias="pokblanc">images/pion marbre rouge.png</file>
+        <file alias="vide">images/vide.png</file>
+        <file alias="blanc">images/pion-lannister.png</file>
+        <file alias="noir">images/pion-stark.png</file>
+        <file alias="plateau">images/plateau.png</file>
+        <file alias="plateau2">images/plateau-GameOfThronr.png</file>
+    </qresource>
+</RCC>
